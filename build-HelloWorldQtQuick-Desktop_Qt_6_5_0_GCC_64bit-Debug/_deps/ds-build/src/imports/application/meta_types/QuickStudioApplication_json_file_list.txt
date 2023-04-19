@@ -1,0 +1,1 @@
+/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-build/src/imports/application/QuickStudioApplication_autogen/include/../EWIEGA46WW/moc_quickstudioapplication_p.cpp.json

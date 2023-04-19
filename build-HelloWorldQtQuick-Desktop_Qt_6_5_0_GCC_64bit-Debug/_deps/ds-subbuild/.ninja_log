@@ -1,0 +1,21 @@
+# ninja log v5
+0	13	1681745157783402604	ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	c29aa2a61c2eaeaa
+0	13	1681745157783402604	/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	c29aa2a61c2eaeaa
+13	2421	1681745160193389548	ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	4da0da2d2b9ff4d5
+13	2421	1681745160193389548	/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	4da0da2d2b9ff4d5
+2421	3184	0	ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	49e433fd57e82d26
+2421	3184	0	/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	49e433fd57e82d26
+3184	3195	1681745160966718692	ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	431b35c05872206c
+3184	3195	1681745160966718692	/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	431b35c05872206c
+3195	3206	1681745160976718638	ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	35999a7e1a129792
+3195	3206	1681745160976718638	/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	35999a7e1a129792
+3206	3217	1681745160986718584	ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	4f07f9e4a5470915
+3206	3217	1681745160986718584	/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	4f07f9e4a5470915
+3217	3228	1681745161000051845	ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	55fa3d7b7e011c37
+3217	3228	1681745161000051845	/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	55fa3d7b7e011c37
+3228	3239	1681745161010051791	ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	35f416e01f85a440
+3228	3239	1681745161010051791	/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	35f416e01f85a440
+3239	3252	1681745161023385052	CMakeFiles/ds-populate-complete	e6b8e20ec48dca5
+3239	3252	1681745161023385052	ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	e6b8e20ec48dca5
+3239	3252	1681745161023385052	/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate-complete	e6b8e20ec48dca5
+3239	3252	1681745161023385052	/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	e6b8e20ec48dca5

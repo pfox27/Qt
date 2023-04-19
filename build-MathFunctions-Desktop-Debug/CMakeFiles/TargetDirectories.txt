@@ -1,0 +1,5 @@
+/home/pfox27/code/Qt/build-MathFunctions-Desktop-Debug/CMakeFiles/MathFunctions.dir
+/home/pfox27/code/Qt/build-MathFunctions-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/pfox27/code/Qt/build-MathFunctions-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/pfox27/code/Qt/build-MathFunctions-Desktop-Debug/CMakeFiles/MathFunctions_autogen_timestamp_deps.dir
+/home/pfox27/code/Qt/build-MathFunctions-Desktop-Debug/CMakeFiles/MathFunctions_autogen.dir

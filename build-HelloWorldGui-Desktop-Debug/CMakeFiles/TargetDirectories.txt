@@ -1,0 +1,9 @@
+/home/pfox27/code/Qt/build-HelloWorldGui-Desktop-Debug/CMakeFiles/HelloWorldGui.dir
+/home/pfox27/code/Qt/build-HelloWorldGui-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/pfox27/code/Qt/build-HelloWorldGui-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/pfox27/code/Qt/build-HelloWorldGui-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/pfox27/code/Qt/build-HelloWorldGui-Desktop-Debug/CMakeFiles/install.dir
+/home/pfox27/code/Qt/build-HelloWorldGui-Desktop-Debug/CMakeFiles/install/local.dir
+/home/pfox27/code/Qt/build-HelloWorldGui-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/pfox27/code/Qt/build-HelloWorldGui-Desktop-Debug/CMakeFiles/HelloWorldGui_autogen_timestamp_deps.dir
+/home/pfox27/code/Qt/build-HelloWorldGui-Desktop-Debug/CMakeFiles/HelloWorldGui_autogen.dir

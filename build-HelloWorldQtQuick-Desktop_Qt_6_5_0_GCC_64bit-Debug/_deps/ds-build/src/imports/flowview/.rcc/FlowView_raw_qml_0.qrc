@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="/FlowView/">
+    <file alias="DefaultFlowEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/DefaultFlowEffect.qml</file>
+    <file alias="SwipeInteraction.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/SwipeInteraction.qml</file>
+    <file alias="FlowEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowEffect.qml</file>
+    <file alias="FlowFadeEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowFadeEffect.qml</file>
+    <file alias="FlowPushLeftEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowPushLeftEffect.qml</file>
+    <file alias="FlowPushRightEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowPushRightEffect.qml</file>
+    <file alias="FlowSlideDownEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowSlideDownEffect.qml</file>
+    <file alias="FlowSlideLeftEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowSlideLeftEffect.qml</file>
+    <file alias="FlowSlideRightEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowSlideRightEffect.qml</file>
+    <file alias="FlowSlideUpEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowSlideUpEffect.qml</file>
+    <file alias="FlowMoveEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowMoveEffect.qml</file>
+    <file alias="FlowPushEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowPushEffect.qml</file>
+    <file alias="FlowTransition.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowTransition.qml</file>
+    <file alias="FlowTransitionList.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowTransitionList.qml</file>
+    <file alias="FlowView.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowView.qml</file>
+    <file alias="FlowPushUpEffect.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowPushUpEffect.qml</file>
+    <file alias="FlowItem.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowItem.qml</file>
+    <file alias="FlowDecision.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowDecision.qml</file>
+    <file alias="FlowWildcard.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowWildcard.qml</file>
+    <file alias="FlowActionArea.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowActionArea.qml</file>
+    <file alias="FlowState.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/FlowState.qml</file>
+    <file alias="+DesignMode/FlowItem.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/+DesignMode/FlowItem.qml</file>
+    <file alias="+DesignMode/FlowView.qml">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/+DesignMode/FlowView.qml</file>
+    <file alias="qmldir">/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-src/src/imports/flowview/qmldir</file>
+  </qresource>
+</RCC>
+

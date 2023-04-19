@@ -1,0 +1,3 @@
+/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate.dir
+/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/CMakeFiles/edit_cache.dir
+/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/_deps/ds-subbuild/CMakeFiles/rebuild_cache.dir

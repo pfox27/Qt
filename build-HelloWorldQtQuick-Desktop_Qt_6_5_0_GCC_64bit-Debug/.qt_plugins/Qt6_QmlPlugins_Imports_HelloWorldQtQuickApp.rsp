@@ -1,0 +1,15 @@
+-rootPath
+/home/pfox27/code/Qt/HelloWorldQtQuick
+-cmake-output
+-output-file
+/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_HelloWorldQtQuickApp.cmake
+-importPath
+/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/qml/Main
+-importPath
+/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/qml
+-importPath
+/home/pfox27/Qt/6.5.0/gcc_64/./qml
+-qrcFiles
+/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/.rcc/configuration.qrc
+/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/.rcc/qmake_Main.qrc
+/home/pfox27/code/Qt/build-HelloWorldQtQuick-Desktop_Qt_6_5_0_GCC_64bit-Debug/.rcc/HelloWorldQtQuickApp_raw_qml_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qtquickcontrols2.conf">/home/pfox27/code/Qt/HelloWorldQtQuick/qtquickcontrols2.conf</file>
+  </qresource>
+</RCC>
+
